@@ -1,0 +1,9 @@
+export const COLORS = {
+  DENIM: '#1A58DB',
+  WHITE: '#FFFFFF',
+  GALLERY: '#EEEEEE',
+  ALTO: '#D3D3D3',
+  SILVER_CHALICE: '#AAAAAA',
+  BLACK: '#000000',
+  MEDIUM_DARK_TRANSPARENCY: 'rgba(0,0,0,0.65)',
+};

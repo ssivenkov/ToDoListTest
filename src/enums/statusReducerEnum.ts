@@ -1,0 +1,3 @@
+export enum APP_REDUCER_ACTION {
+  SET_IS_DATA_LOADING = 'appReducer/SET_IS_DATA_LOADING',
+}
